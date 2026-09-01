@@ -1,7 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 :root {
   --bg-void: #0a0a0a;
   --blood: #8b0000;
@@ -15,9 +11,9 @@ html, body, #root {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: var(--bg-void);
+  background: #000;
   font-family: 'Courier New', monospace;
-  cursor: none;
+  cursor: default;
 }
 
 canvas {
