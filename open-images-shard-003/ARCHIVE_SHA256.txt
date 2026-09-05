@@ -1,0 +1,3 @@
+5ccbeb81e888ce39e2d25673a1d48e4e458c570f33ccdbaa8a79aca6911965a1  verified-source-archive-open-images-shard-003.tar
+
+The source archive was verified before extraction. The 1.46 GB tar archive is intentionally not stored in GitHub; this directory contains its extracted class-organized files.
