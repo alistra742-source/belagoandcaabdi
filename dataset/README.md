@@ -10,3 +10,9 @@ The upstream Open Images dataset is much larger than a GitHub repository can saf
 ## Source and licensing
 
 Images are from [Open Images V7](https://storage.googleapis.com/openimages/web/index.html). Open Images images are individually licensed by their respective copyright holders; consult `manifest.csv` before redistribution and retain the listed attribution. Dataset documentation and metadata are available from the [official download page](https://storage.googleapis.com/openimages/web/download_v7.html).
+
+## Complete class structure
+
+The repository now includes one Git-tracked folder for every one of the 602 official Open Images boxable classes. `class_map.csv` maps each folder to its Open Images MID and canonical class name. Existing downloaded images remain in their matching folders; folders without downloaded images contain `.gitkeep` and are ready for future shards.
+
+This structure is not the same as downloading the entire corpus: the upstream dataset contains approximately 9 million image URLs and is too large for GitHub.

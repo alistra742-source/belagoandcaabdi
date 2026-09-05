@@ -1,0 +1,603 @@
+mid,class_name,folder_name
+LabelName,DisplayName,displayname
+/m/0mkg,Accordion,accordion
+/m/03m3vtv,Adhesive tape,adhesive_tape
+/m/0k5j,Aircraft,aircraft
+/m/046dlr,Alarm clock,alarm_clock
+/m/0pcr,Alpaca,alpaca
+/m/012n7d,Ambulance,ambulance
+/m/0jbk,Animal,animal
+/m/0_k2,Ant,ant
+/m/0czz2,Antelope,antelope
+/m/014j1m,Apple,apple
+/m/0xfy,Armadillo,armadillo
+/m/047v4b,Artichoke,artichoke
+/m/08dz3q,Auto part,auto_part
+/m/0c2jj,Axe,axe
+/m/01940j,Backpack,backpack
+/m/01fb_0,Bagel,bagel
+/m/052lwg6,Baked goods,baked_goods
+/m/0l3ms,Balance beam,balance_beam
+/m/018xm,Ball (Object),ball_object
+/m/01j51,Balloon,balloon
+/m/09qck,Banana,banana
+/m/0j496,Band-aid,band_aid
+/m/018j2,Banjo,banjo
+/m/01btn,Barge,barge
+/m/02zn6n,Barrel,barrel
+/m/03g8mr,Baseball bat,baseball_bat
+/m/03grzl,Baseball glove,baseball_glove
+/m/01h44,Bat (Animal),bat_animal
+/m/0h8nr_l,Bathroom accessory,bathroom_accessory
+/m/04y4h8h,Bathroom cabinet,bathroom_cabinet
+/m/03dnzn,Bathtub,bathtub
+/m/0d20w4,Beaker,beaker
+/m/01dws,Bear,bear
+/m/015h_t,Beard,beard
+/m/03ssj5,Bed,bed
+/m/01h3n,Bee,bee
+/m/01gllr,Beehive,beehive
+/m/01599,Beer,beer
+/m/020jm,Beetle,beetle
+/m/0jg57,Bell pepper,bell_pepper
+/m/0176mf,Belt,belt
+/m/0cvnqh,Bench,bench
+/m/0199g,Bicycle,bicycle
+/m/03p3bw,Bicycle helmet,bicycle_helmet
+/m/01bqk0,Bicycle wheel,bicycle_wheel
+/m/01vbnl,Bidet,bidet
+/m/01knjb,Billboard,billboard
+/m/04p0qw,Billiard table,billiard_table
+/m/0lt4_,Binoculars,binoculars
+/m/015p6,Bird,bird
+/m/02pjr4,Blender,blender
+/m/01f8m5,Blue jay,blue_jay
+/m/019jd,Boat,boat
+/m/0ct4f,Bomb,bomb
+/m/0bt_c3,Book,book
+/m/03__z0,Bookcase,bookcase
+/m/01b638,Boot,boot
+/m/04dr76w,Bottle,bottle
+/m/04f5ws,Bottle opener,bottle_opener
+/m/01g3x7,Bow and arrow,bow_and_arrow
+/m/04kkgm,Bowl,bowl
+/m/07pj7bq,Bowling equipment,bowling_equipment
+/m/025dyy,Box,box
+/m/01bl7v,Boy,boy
+/m/01gmv2,Brassiere,brassiere
+/m/09728,Bread,bread
+/m/0584n8,Briefcase,briefcase
+/m/0hkxq,Broccoli,broccoli
+/m/01yx86,Bronze sculpture,bronze_sculpture
+/m/01dxs,Brown bear,brown_bear
+/m/0cgh4,Building,building
+/m/0cnyhnx,Bull,bull
+/m/01j3zr,Burrito,burrito
+/m/01bjv,Bus,bus
+/m/04yqq2,Bust,bust
+/m/0cyf8,Butterfly,butterfly
+/m/0fbw6,Cabbage,cabbage
+/m/01s105,Cabinetry,cabinetry
+/m/0fszt,Cake,cake
+/m/0h8n6ft,Cake stand,cake_stand
+/m/024d2,Calculator,calculator
+/m/01x_v,Camel,camel
+/m/0dv5r,Camera,camera
+/m/02mqfb,Can opener,can_opener
+/m/0ccs93,Canary,canary
+/m/0c06p,Candle,candle
+/m/0gm28,Candy,candy
+/m/020kz,Cannon,cannon
+/m/0ph39,Canoe,canoe
+/m/0kpt_,Cantaloupe,cantaloupe
+/m/0k4j,Car,car
+/m/01lrl,Carnivore,carnivore
+/m/0fj52s,Carrot,carrot
+/m/018p4k,Cart,cart
+/m/01432t,Cassette deck,cassette_deck
+/m/0d5gx,Castle,castle
+/m/01yrx,Cat,cat
+/m/0h8nm9j,Cat furniture,cat_furniture
+/m/0cydv,Caterpillar,caterpillar
+/m/01xq0k1,Cattle,cattle
+/m/03ldnb,Ceiling fan,ceiling_fan
+/m/01xqw,Cello,cello
+/m/019h78,Centipede,centipede
+/m/01j4z9,Chainsaw,chainsaw
+/m/01mzpv,Chair,chair
+/m/01nkt,Cheese,cheese
+/m/0cd4d,Cheetah,cheetah
+/m/05kyg_,Chest of drawers,chest_of_drawers
+/m/09b5t,Chicken,chicken
+/m/0f8s22,Chime,chime
+/m/0_dqb,Chisel,chisel
+/m/01_5g,Chopsticks,chopsticks
+/m/025nd,Christmas tree,christmas_tree
+/m/01x3z,Clock,clock
+/m/0d4w1,Closet,closet
+/m/09j2d,Clothing,clothing
+/m/01xygc,Coat,coat
+/m/024g6,Cocktail,cocktail
+/m/0440zs,Cocktail shaker,cocktail_shaker
+/m/0djtd,Coconut,coconut
+/m/02vqfm,Coffee (drink),coffee_drink
+/m/02p5f1q,Coffee cup,coffee_cup
+/m/078n6m,Coffee table,coffee_table
+/m/07xyvk,Coffeemaker,coffeemaker
+/m/0242l,Coin,coin
+/m/043nyj,Common fig,common_fig
+/m/0ftb8,Common sunflower,common_sunflower
+/m/01m2v,Computer keyboard,computer_keyboard
+/m/02522,Computer monitor,computer_monitor
+/m/020lf,Computer mouse,computer_mouse
+/m/011q46kg,Container,container
+/m/0crjs,Convenience store,convenience_store
+/m/021mn,Cookie,cookie
+/m/07mcwg,Cooking spray,cooking_spray
+/m/0h8lkj8,Corded phone,corded_phone
+/m/014trl,Cosmetics,cosmetics
+/m/02crq1,Couch,couch
+/m/0b3fp9,Countertop,countertop
+/m/025rp__,Cowboy hat,cowboy_hat
+/m/0n28_,Crab,crab
+/m/08p92x,Cream,cream
+/m/02ctlc,Cricket ball,cricket_ball
+/m/09f_2,Crocodile,crocodile
+/m/015wgc,Croissant,croissant
+/m/0nl46,Crown,crown
+/m/05441v,Crutch,crutch
+/m/015x4r,Cucumber,cucumber
+/m/0642b4,Cupboard,cupboard
+/m/03rszm,Curtain,curtain
+/m/02pdsw,Cutting board,cutting_board
+/m/02gzp,Dagger,dagger
+/m/0284d,Dairy Product,dairy_product
+/m/09kx5,Deer,deer
+/m/01y9k5,Desk,desk
+/m/0270h,Dessert,dessert
+/m/0f571,Diaper,diaper
+/m/029b3,Dice,dice
+/m/06_72j,Digital clock,digital_clock
+/m/029tx,Dinosaur,dinosaur
+/m/0ky7b,Dishwasher,dishwasher
+/m/0bt9lr,Dog,dog
+/m/0h8n6f9,Dog bed,dog_bed
+/m/0167gd,Doll,doll
+/m/02hj4,Dolphin,dolphin
+/m/02dgv,Door,door
+/m/03c7gz,Door handle,door_handle
+/m/0jy4k,Doughnut,doughnut
+/m/0ft9s,Dragonfly,dragonfly
+/m/0fqfqc,Drawer,drawer
+/m/01d40f,Dress,dress
+/m/01d380,Drill (Tool),drill_tool
+/m/0271t,Drink,drink
+/m/03v5tg,Drinking straw,drinking_straw
+/m/026t6,Drum,drum
+/m/09ddx,Duck,duck
+/m/04h8sr,Dumbbell,dumbbell
+/m/09csl,Eagle,eagle
+/m/01r546,Earring,earring
+/m/033cnk,Egg,egg
+/m/0bwd_0j,Elephant,elephant
+/m/0frqm,Envelope,envelope
+/m/02fh7f,Eraser,eraser
+/m/02xb7qb,Face powder,face_powder
+/m/0h8nsvg,Facial tissue holder,facial_tissue_holder
+/m/0f6wt,Falcon,falcon
+/m/0463sg,Fashion accessory,fashion_accessory
+/m/01_bhs,Fast food,fast_food
+/m/02xqq,Fax,fax
+/m/02fq_6,Fedora,fedora
+/m/047j0r,Filing cabinet,filing_cabinet
+/m/01pns0,Fire hydrant,fire_hydrant
+/m/03tw93,Fireplace,fireplace
+/m/0ch_cf,Fish,fish
+/m/0cmf2,Fixed-wing aircraft,fixed_wing_aircraft
+/m/03120,Flag,flag
+/m/01kb5b,Flashlight,flashlight
+/m/0c9ph5,Flower,flower
+/m/0fm3zh,Flowerpot,flowerpot
+/m/0l14j_,Flute,flute
+/m/02wmf,Flying disc,flying_disc
+/m/02wbm,Food,food
+/m/03y6mg,Food processor,food_processor
+/m/01226z,Football,football
+/m/07qxg_,Football helmet,football_helmet
+/m/09j5n,Footwear,footwear
+/m/0dt3t,Fork,fork
+/m/0220r2,Fountain,fountain
+/m/0306r,Fox,fox
+/m/02y6n,French fries,french_fries
+/m/0319l,French horn,french_horn
+/m/09ld4,Frog,frog
+/m/02xwb,Fruit,fruit
+/m/04v6l4,Frying pan,frying_pan
+/m/0c_jw,Furniture,furniture
+/m/0cjs7,Garden Asparagus,garden_asparagus
+/m/02wv84t,Gas stove,gas_stove
+/m/03bk1,Giraffe,giraffe
+/m/05r655,Girl,girl
+/m/0jyfg,Glasses,glasses
+/m/0174n1,Glove,glove
+/m/03fwl,Goat,goat
+/m/02_n6y,Goggles,goggles
+/m/03fj2,Goldfish,goldfish
+/m/044r5d,Golf ball,golf_ball
+/m/0323sq,Golf cart,golf_cart
+/m/02068x,Gondola,gondola
+/m/0dbvp,Goose,goose
+/m/0388q,Grape,grape
+/m/0hqkz,Grapefruit,grapefruit
+/m/0h8jyh6,Grinder,grinder
+/m/02g30s,Guacamole,guacamole
+/m/0342h,Guitar,guitar
+/m/03wvsk,Hair dryer,hair_dryer
+/m/05w9t9,Hair spray,hair_spray
+/m/0cdn1,Hamburger,hamburger
+/m/03l9g,Hammer,hammer
+/m/03qrc,Hamster,hamster
+/m/0c3m8g,Hand dryer,hand_dryer
+/m/080hkjn,Handbag,handbag
+/m/0gxl3,Handgun,handgun
+/m/02l8p9,Harbor seal,harbor_seal
+/m/03qjg,Harmonica,harmonica
+/m/03m5k,Harp,harp
+/m/03q5t,Harpsichord,harpsichord
+/m/02dl1y,Hat,hat
+/m/01b7fy,Headphones,headphones
+/m/03qhv5,Heater,heater
+/m/0cl4p,Hedgehog,hedgehog
+/m/09ct_,Helicopter,helicopter
+/m/0zvk5,Helmet,helmet
+/m/06k2mb,High heels,high_heels
+/m/0268lbt,Hiking equipment,hiking_equipment
+/m/09f20,Hippopotamus,hippopotamus
+/m/019dx1,Home appliance,home_appliance
+/m/0fz0h,Honeycomb,honeycomb
+/m/0cqn2,Horizontal bar,horizontal_bar
+/m/03k3r,Horse,horse
+/m/01b9xk,Hot dog,hot_dog
+/m/03jm5,House,house
+/m/03fp41,Houseplant,houseplant
+/m/0dzf4,Human arm,human_arm
+/m/02p0tk3,Human body,human_body
+/m/039xj_,Human ear,human_ear
+/m/014sv8,Human eye,human_eye
+/m/0dzct,Human face,human_face
+/m/031n1,Human foot,human_foot
+/m/03q69,Human hair,human_hair
+/m/0k65p,Human hand,human_hand
+/m/04hgtk,Human head,human_head
+/m/035r7c,Human leg,human_leg
+/m/0283dt1,Human mouth,human_mouth
+/m/0k0pj,Human nose,human_nose
+/m/04lvq_,Humidifier,humidifier
+/m/0cxn2,Ice cream,ice_cream
+/m/03wym,Indoor rower,indoor_rower
+/m/061hd_,Infant bed,infant_bed
+/m/03vt0,Insect,insect
+/m/03xxp,Invertebrate,invertebrate
+/m/0mcx2,Ipod,ipod
+/m/035vxb,Isopod,isopod
+/m/032b3c,Jacket,jacket
+/m/065h6l,Jacuzzi,jacuzzi
+/m/0449p,Jaguar (Animal),jaguar_animal
+/m/0fly7,Jeans,jeans
+/m/0d8zb,Jellyfish,jellyfish
+/m/01xs3r,Jet ski,jet_ski
+/m/08hvt4,Jug,jug
+/m/01z1kdw,Juice,juice
+/m/04c0y,Kangaroo,kangaroo
+/m/03s_tn,Kettle,kettle
+/m/0h8n5zk,Kitchen & dining room table,kitchen_dining_room_table
+/m/0h99cwc,Kitchen appliance,kitchen_appliance
+/m/058qzx,Kitchen knife,kitchen_knife
+/m/03hlz0c,Kitchen utensil,kitchen_utensil
+/m/03_wxk,Kitchenware,kitchenware
+/m/02zt3,Kite,kite
+/m/04ctx,Knife,knife
+/m/04cp_,Koala,koala
+/m/012w5l,Ladder,ladder
+/m/027rl48,Ladle,ladle
+/m/0gj37,Ladybug,ladybug
+/m/0dtln,Lamp,lamp
+/m/01prls,Land vehicle,land_vehicle
+/m/01jfsr,Lantern,lantern
+/m/01c648,Laptop,laptop
+/m/04gth,Lavender (Plant),lavender_plant
+/m/09k_b,Lemon (plant),lemon_plant
+/m/0c29q,Leopard,leopard
+/m/0h8l4fh,Light bulb,light_bulb
+/m/03jbxj,Light switch,light_switch
+/m/04h7h,Lighthouse,lighthouse
+/m/0jqgx,Lily,lily
+/m/01lcw4,Limousine,limousine
+/m/096mb,Lion,lion
+/m/06c7f7,Lipstick,lipstick
+/m/04m9y,Lizard,lizard
+/m/0cjq5,Lobster,lobster
+/m/0703r8,Loveseat,loveseat
+/m/0hf58v5,Luggage and bags,luggage_and_bags
+/m/04g2r,Lynx,lynx
+/m/012074,Magpie,magpie
+/m/04rky,Mammal,mammal
+/m/04yx4,Man,man
+/m/0fldg,Mango,mango
+/m/0cffdh,Maple,maple
+/m/0xzly,Maraca,maraca
+/m/03hl4l9,Marine invertebrates,marine_invertebrates
+/m/0gd2v,Marine mammal,marine_mammal
+/m/07v9_z,Measuring cup,measuring_cup
+/m/02x984l,Mechanical fan,mechanical_fan
+/m/01xgg_,Medical equipment,medical_equipment
+/m/0hg7b,Microphone,microphone
+/m/0fx9l,Microwave oven,microwave_oven
+/m/04zpv,Milk,milk
+/m/01cmb2,Miniskirt,miniskirt
+/m/054_l,Mirror,mirror
+/m/04ylt,Missile,missile
+/m/063rgb,Mixer,mixer
+/m/03hj559,Mixing bowl,mixing_bowl
+/m/050k8,Mobile phone,mobile_phone
+/m/08pbxl,Monkey,monkey
+/m/0d_2m,Moths and butterflies,moths_and_butterflies
+/m/04_sv,Motorcycle,motorcycle
+/m/04rmv,Mouse,mouse
+/m/01tcjp,Muffin,muffin
+/m/02jvh9,Mug,mug
+/m/0dbzx,Mule,mule
+/m/052sf,Mushroom,mushroom
+/m/04szw,Musical instrument,musical_instrument
+/m/057cc,Musical keyboard,musical_keyboard
+/m/05bm6,Nail (Construction),nail_construction
+/m/01llwg,Necklace,necklace
+/m/02z51p,Nightstand,nightstand
+/m/05kms,Oboe,oboe
+/m/021sj1,Office building,office_building
+/m/02rdsp,Office supplies,office_supplies
+/m/0cyhj_,Orange (fruit),orange_fruit
+/m/013y1f,Organ (Musical Instrument),organ_musical_instrument
+/m/05n4y,Ostrich,ostrich
+/m/0cn6p,Otter,otter
+/m/029bxz,Oven,oven
+/m/09d5_,Owl,owl
+/m/0_cp5,Oyster,oyster
+/m/014y4n,Paddle,paddle
+/m/0cdl1,Palm tree,palm_tree
+/m/01dwwc,Pancake,pancake
+/m/03bj1,Panda,panda
+/m/080n7g,Paper cutter,paper_cutter
+/m/02w3r3,Paper towel,paper_towel
+/m/0cyfs,Parachute,parachute
+/m/015qbp,Parking meter,parking_meter
+/m/0gv1x,Parrot,parrot
+/m/05z55,Pasta,pasta
+/m/0hnyx,Pastry,pastry
+/m/0dj6p,Peach,peach
+/m/061_f,Pear,pear
+/m/0k1tl,Pen,pen
+/m/05676x,Pencil case,pencil_case
+/m/02ddwp,Pencil sharpener,pencil_sharpener
+/m/05z6w,Penguin,penguin
+/m/0p833,Perfume,perfume
+/m/01g317,Person,person
+/m/02w3_ws,Personal care,personal_care
+/m/054xkw,Personal flotation device,personal_flotation_device
+/m/05r5c,Piano,piano
+/m/07kng9,Picnic basket,picnic_basket
+/m/06z37_,Picture frame,picture_frame
+/m/068zj,Pig,pig
+/m/034c16,Pillow,pillow
+/m/0fp6w,Pineapple,pineapple
+/m/054fyh,Pitcher (Container),pitcher_container
+/m/0663v,Pizza,pizza
+/m/08ks85,Pizza cutter,pizza_cutter
+/m/05s2s,Plant,plant
+/m/05gqfk,Plastic bag,plastic_bag
+/m/050gv4,Plate,plate
+/m/099ssp,Platter,platter
+/m/02pkr5,Plumbing fixture,plumbing_fixture
+/m/0633h,Polar bear,polar_bear
+/m/0jwn_,Pomegranate,pomegranate
+/m/01hrv5,Popcorn,popcorn
+/m/04m6gz,Porch,porch
+/m/0c568,Porcupine,porcupine
+/m/01n5jq,Poster,poster
+/m/05vtc,Potato,potato
+/m/03bbps,Power plugs and sockets,power_plugs_and_sockets
+/m/0h8ntjv,Pressure cooker,pressure_cooker
+/m/01f91_,Pretzel,pretzel
+/m/01m4t,Printer,printer
+/m/05zsy,Pumpkin,pumpkin
+/m/0420v5,Punching bag,punching_bag
+/m/06mf6,Rabbit,rabbit
+/m/0dq75,Raccoon,raccoon
+/m/0dv9c,Racket,racket
+/m/015x5n,Radish,radish
+/m/02bm9n,Ratchet (Device),ratchet_device
+/m/06j2d,Raven,raven
+/m/0m53l,Rays and skates,rays_and_skates
+/m/06l9r,Red panda,red_panda
+/m/040b_t,Refrigerator,refrigerator
+/m/0qjjc,Remote control,remote_control
+/m/06bt6,Reptile,reptile
+/m/03d443,Rhinoceros,rhinoceros
+/m/06c54,Rifle,rifle
+/m/04zwwv,Ring binder,ring_binder
+/m/09rvcxw,Rocket,rocket
+/m/02p3w7d,Roller skates,roller_skates
+/m/06m11,Rose,rose
+/m/0wdt60w,Rugby ball,rugby_ball
+/m/0hdln,Ruler,ruler
+/m/0grw1,Salad,salad
+/m/02x8cch,Salt and pepper shakers,salt_and_pepper_shakers
+/m/03nfch,Sandal,sandal
+/m/0l515,Sandwich,sandwich
+/m/03q5c7,Saucer,saucer
+/m/06ncr,Saxophone,saxophone
+/m/03txqz,Scale,scale
+/m/02h19r,Scarf,scarf
+/m/01lsmm,Scissors,scissors
+/m/057p5t,Scoreboard,scoreboard
+/m/0755b,Scorpion,scorpion
+/m/01bms0,Screwdriver,screwdriver
+/m/06msq,Sculpture,sculpture
+/m/0gd36,Sea lion,sea_lion
+/m/0120dh,Sea turtle,sea_turtle
+/m/06nwz,Seafood,seafood
+/m/0nybt,Seahorse,seahorse
+/m/0dkzw,Seat belt,seat_belt
+/m/076bq,Segway,segway
+/m/0h8n27j,Serving tray,serving_tray
+/m/0llzx,Sewing machine,sewing_machine
+/m/0by6g,Shark,shark
+/m/07bgp,Sheep,sheep
+/m/0gjbg72,Shelf,shelf
+/m/0fbdv,Shellfish,shellfish
+/m/01n4qj,Shirt,shirt
+/m/01bfm9,Shorts,shorts
+/m/06nrc,Shotgun,shotgun
+/m/02f9f_,Shower,shower
+/m/0ll1f78,Shrimp,shrimp
+/m/0130jx,Sink,sink
+/m/06_fw,Skateboard,skateboard
+/m/071p9,Ski,ski
+/m/02wv6h6,Skirt,skirt
+/m/016m2d,Skull,skull
+/m/0km7z,Skunk,skunk
+/m/079cl,Skyscraper,skyscraper
+/m/02tsc9,Slow cooker,slow_cooker
+/m/01ww8y,Snack,snack
+/m/0f9_l,Snail,snail
+/m/078jl,Snake,snake
+/m/06__v,Snowboard,snowboard
+/m/0152hh,Snowman,snowman
+/m/01x3jk,Snowmobile,snowmobile
+/m/04vv5k,Snowplow,snowplow
+/m/0c3mkw,Soap dispenser,soap_dispenser
+/m/01nq26,Sock,sock
+/m/03m3pdh,Sofa bed,sofa_bed
+/m/02jfl0,Sombrero,sombrero
+/m/0h23m,Sparrow,sparrow
+/m/02d1br,Spatula,spatula
+/m/0h8kx63,Spice rack,spice_rack
+/m/09kmb,Spider,spider
+/m/0cmx8,Spoon,spoon
+/m/05y5lj,Sports equipment,sports_equipment
+/m/0h8mhzd,Sports uniform,sports_uniform
+/m/0dv77,Squash (Plant),squash_plant
+/m/09gys,Squid,squid
+/m/071qp,Squirrel,squirrel
+/m/01lynh,Stairs,stairs
+/m/025fsf,Stapler,stapler
+/m/01h8tj,Starfish,starfish
+/m/03kt2w,Stationary bicycle,stationary_bicycle
+/m/073g6,Stethoscope,stethoscope
+/m/0fqt361,Stool,stool
+/m/02pv19,Stop sign,stop_sign
+/m/07fbm7,Strawberry,strawberry
+/m/033rq4,Street light,street_light
+/m/02lbcq,Stretcher,stretcher
+/m/026qbn5,Studio couch,studio_couch
+/m/074d1,Submarine,submarine
+/m/06pcq,Submarine sandwich,submarine_sandwich
+/m/01xyhv,Suit,suit
+/m/01s55n,Suitcase,suitcase
+/m/02wbtzl,Sun hat,sun_hat
+/m/017ftj,Sunglasses,sunglasses
+/m/019w40,Surfboard,surfboard
+/m/07030,Sushi,sushi
+/m/0dftk,Swan,swan
+/m/04tn4x,Swim cap,swim_cap
+/m/0b_rs,Swimming pool,swimming_pool
+/m/01gkx_,Swimwear,swimwear
+/m/06y5r,Sword,sword
+/m/012ysf,Syringe,syringe
+/m/04bcr3,Table,table
+/m/05_5p_0,Table tennis racket,table_tennis_racket
+/m/0bh9flk,Tablet computer,tablet_computer
+/m/04brg2,Tableware,tableware
+/m/07crc,Taco,taco
+/m/07cmd,Tank,tank
+/m/02jz0l,Tap,tap
+/m/02zvsm,Tart,tart
+/m/0pg52,Taxi,taxi
+/m/07clx,Tea,tea
+/m/01fh4r,Teapot,teapot
+/m/0kmg4,Teddy bear,teddy_bear
+/m/07cx4,Telephone,telephone
+/m/07c52,Television,television
+/m/05ctyq,Tennis ball,tennis_ball
+/m/0h8my_4,Tennis racket,tennis_racket
+/m/01j61q,Tent,tent
+/m/01krhy,Tiara,tiara
+/m/0175cv,Tick,tick
+/m/01rkbr,Tie,tie
+/m/07dm6,Tiger,tiger
+/m/02jnhm,Tin can,tin_can
+/m/0h9mv,Tire,tire
+/m/01k6s3,Toaster,toaster
+/m/09g1w,Toilet,toilet
+/m/09gtd,Toilet paper,toilet_paper
+/m/07j87,Tomato,tomato
+/m/07k1x,Tool,tool
+/m/012xff,Toothbrush,toothbrush
+/m/07dd4,Torch,torch
+/m/011k07,Tortoise,tortoise
+/m/0162_1,Towel,towel
+/m/01fdzj,Tower,tower
+/m/0138tl,Toy,toy
+/m/015qff,Traffic light,traffic_light
+/m/01mqdt,Traffic sign,traffic_sign
+/m/07jdr,Train,train
+/m/076lb9,Training bench,training_bench
+/m/030610,Treadmill,treadmill
+/m/07j7r,Tree,tree
+/m/02wg_p,Tree house,tree_house
+/m/073bxn,Tripod,tripod
+/m/07c6l,Trombone,trombone
+/m/07mhn,Trousers,trousers
+/m/07r04,Truck,truck
+/m/07gql,Trumpet,trumpet
+/m/0jly1,Turkey,turkey
+/m/09dzg,Turtle,turtle
+/m/0hnnb,Umbrella,umbrella
+/m/0f6nr,Unicycle,unicycle
+/m/0h2r6,Van,van
+/m/02s195,Vase,vase
+/m/0f4s2w,Vegetable,vegetable
+/m/07yv9,Vehicle,vehicle
+/m/01jfm_,Vehicle registration plate,vehicle_registration_plate
+/m/07y_7,Violin,violin
+/m/02rgn06,Volleyball (Ball),volleyball_ball
+/m/01dwsz,Waffle,waffle
+/m/04z4wx,Waffle iron,waffle_iron
+/m/0h8mzrc,Wall clock,wall_clock
+/m/02vkqh8,Wardrobe,wardrobe
+/m/0174k2,Washing machine,washing_machine
+/m/0bjyj5,Waste container,waste_container
+/m/0gjkl,Watch,watch
+/m/01rzcn,Watercraft,watercraft
+/m/0kpqd,Watermelon,watermelon
+/m/083kb,Weapon,weapon
+/m/084zz,Whale,whale
+/m/083wq,Wheel,wheel
+/m/0qmmr,Wheelchair,wheelchair
+/m/02vwcm,Whisk,whisk
+/m/02d9qx,Whiteboard,whiteboard
+/m/0mw_6,Willow,willow
+/m/0d4v4,Window,window
+/m/031b6r,Window blind,window_blind
+/m/081qc,Wine,wine
+/m/09tvcd,Wine glass,wine_glass
+/m/0271qf7,Wine rack,wine_rack
+/m/02cvgx,Winter melon,winter_melon
+/m/084rd,Wok,wok
+/m/03bt1vf,Woman,woman
+/m/04169hn,Wood-burning stove,wood_burning_stove
+/m/01dy8n,Woodpecker,woodpecker
+/m/084hf,Worm,worm
+/m/01j5ks,Wrench,wrench
+/m/0898b,Zebra,zebra
+/m/027pcv,Zucchini,zucchini
