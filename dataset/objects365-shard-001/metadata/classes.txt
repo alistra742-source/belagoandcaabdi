@@ -1,0 +1,247 @@
+Air Conditioner
+Airplane
+Ambulance
+American Football
+Apple
+Avocado
+Awning
+Backpack
+Balloon
+Banana
+Baozi
+Barrel-bucket
+Baseball
+Baseball Bat
+Baseball Glove
+Basket
+Basketball
+Bathtub
+Bed
+Belt
+Bench
+Bicycle
+Binoculars
+Blackboard-Whiteboard
+Blender
+Board Eraser
+Boat
+Book
+Boots
+Bottle
+Bow Tie
+Bowl-Basin
+Bracelet
+Bread
+Briefcase
+Broccoli
+Brush
+Bus
+Cabbage
+Cabinet-shelf
+Cake
+Camera
+Candle
+Candy
+Canned
+Car
+Carpet
+Carriage
+Carrot
+Cat
+Cell Phone
+Cello
+Chainsaw
+Chair
+Cherry
+Chicken
+Chopsticks
+Clock
+Coffee Machine
+Coffee Table
+Computer Box
+Converter
+Cookies
+Couch
+Cow
+Crane
+Crosswalk Sign
+Cucumber
+Cup
+Cutting-chopping Board
+Cymbal
+Deer
+Desk
+Dessert
+Dinning Table
+Dog
+Drum
+Duck
+Egg
+Eggplant
+Extension Cord
+Extractor
+Fan
+Faucet
+Fire Extinguisher
+Fire Hydrant
+Fire Truck
+Flag
+Flask
+Flower
+Folder
+Fork
+French Fries
+Frisbee
+Game board
+Garlic
+Gas stove
+Glasses
+Globe
+Gloves
+Golf Club
+Grape
+Green Onion
+Green Vegetables
+Guitar
+Gun
+Hammer
+Handbag-Satchel
+Hanger
+Hat
+Head Phone
+Helicopter
+Helmet
+High Heels
+Hockey Stick
+Horse
+Hot dog
+Hot-air balloon
+Ice cream
+Induction Cooker
+Jug
+Keyboard
+Kiwi fruit
+Knife
+Ladder
+Lamp
+Lantern
+Laptop
+Leather Shoes
+Lemon
+Lettuce
+Lifesaver
+Luggage
+Machinery Vehicle
+Marker
+Mask
+Microphone
+Microwave
+Mirror
+Monitor-TV
+Motorcycle
+Mouse
+Napkin
+Necklace
+Nightstand
+Notepaper
+Orange-Tangerine
+Other Balls
+Other Fish
+Other Shoes
+Oven
+Paddle
+Paint Brush
+Parking meter
+Pasta
+Pear
+Pen-Pencil
+Pepper
+Person
+Piano
+Pickup Truck
+Picture-Frame
+Pie
+Pig
+Pillow
+Plate
+Pot
+Potato
+Potted Plant
+Power outlet
+Printer
+Projector
+Pumpkin
+Radiator
+Recorder
+Refrigerator
+Remote
+Rickshaw
+Ring
+SUV
+Sailboat
+Sandals
+Sandwich
+Saxophone
+Scale
+Scissors
+Scooter
+Sheep
+Shovel
+Side Table
+Sink
+Skateboard
+Skating and Skiing shoes
+Skiboard
+Slide
+Slippers
+Sneakers
+Soccer
+Speaker
+Speed Limit Sign
+Spoon
+Sports Car
+Stool
+Stop Sign
+Storage box
+Strawberry
+Street Lights
+Stroller
+Stuffed Toy
+Surfboard
+Surveillance Camera
+Swing
+Tablet
+Tape
+Tape Measure-Ruler
+Tea pot
+Telephone
+Tent
+Tie
+Toilet
+Toilet Paper
+Toiletry
+Tomato
+Tong
+Towel
+Traffic Light
+Traffic Sign
+Traffic cone
+Train
+Trash bin Can
+Tricycle
+Tripod
+Trolley
+Trophy
+Truck
+Tuba
+Umbrella
+Van
+Vase
+Violin
+Volleyball
+Wallet-Purse
+Watch
+Wheelchair
+Wild Bird
+Wine Glass
+Zebra
