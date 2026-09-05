@@ -6,8 +6,8 @@ This shard contains **1,000 train-split images** from [Roboflow Universe’s Obj
 
 | Path | Description |
 | --- | --- |
-| `images/` | 1,000 JPEG images, each retained under its source filename. |
-| `metadata/manifest.csv` | One record per image: source IDs, split, class labels, direct source URL, byte count, and SHA-256 checksum. |
+| `images/<primary-class>/` | 1,000 JPEG images organized into 70 primary-class folders. |
+| `metadata/manifest.csv` | One record per image: source IDs, split, all class labels, primary class folder, relative path, direct source URL, byte count, and SHA-256 checksum. |
 | `metadata/source_catalog.json` | Unmodified catalog response used to select the shard. |
 | `metadata/classes.txt` | Distinct labels present in the shard. |
 | `build_shard.py` | Reproducible downloader and manifest generator. |
@@ -26,9 +26,10 @@ The checked-in images and manifest are authoritative. To rebuild them from the s
 
 ```bash
 python3 dataset/objects365-shard-001/build_shard.py
+python3 dataset/objects365-shard-001/organize_by_class.py
 ```
 
-The script makes bounded concurrent requests, retries transient failures, verifies JPEG responses, and records SHA-256 hashes in `metadata/manifest.csv`.
+The downloader makes bounded concurrent requests, retries transient failures, verifies JPEG responses, and records SHA-256 hashes in `metadata/manifest.csv`. The organizer uses the first source label as the deterministic primary folder. Because object-detection images can contain multiple object classes, the remaining labels stay in the manifest rather than creating duplicate image copies.
 
 ## License
 
