@@ -1,0 +1,352 @@
+class,count
+Air Conditioner,100
+Airplane,100
+Ambulance,7
+American Football,100
+Antelope,100
+Apple,100
+Asparagus,3
+Avocado,100
+Awning,3
+Backpack,100
+Bakset,100
+Ballon,100
+Banana,100
+Baozi,45
+Barbell,71
+Barrel/bucket,100
+Baseball,100
+Baseball Bat,96
+Baseball Glove,68
+Basketball,100
+Bathtub,100
+Bear,14
+Bed,100
+Belt,100
+Bench,100
+Bicycle,100
+Billards,100
+Binoculars,13
+Blackboard/Whiteboard,100
+Blender,100
+Board Eraser,100
+Boat,100
+Book,100
+Boots,100
+Bottle,100
+Bow Tie,100
+Bowl/Basin,100
+Bracelet,100
+Bread,100
+Briefcase,100
+Broccoli,100
+Broom,100
+Brush,100
+Bus,93
+Buttefly,100
+CD,100
+Cabbage,100
+Cabinet/shelf,100
+Cake,100
+Calculator,100
+Camera,100
+Campel,100
+Candle,100
+Candy,100
+Canned,100
+Car,100
+Carpet,100
+Carriage,100
+Carrot,100
+Cat,100
+Cell Phone,100
+Cello,100
+Chainsaw,16
+Chair,100
+Cheese,100
+Cherry,100
+Chicken,100
+Chips,89
+Chopsticks,93
+Cigar/Cigarette ,32
+Cleaning Products,100
+Clock,100
+Coconut,100
+Coffee Machine,100
+Coffee Table,6
+Comb,20
+Computer Box,100
+Converter,100
+Cookies,100
+Corn,100
+Cosmetics Brush/Eyeliner Pencil,1
+Couch,100
+Cow,100
+Crab,100
+Crane,87
+Crosswalk Sign,31
+Cucumber,100
+Cue,100
+Cup,100
+Cutting/chopping Board,100
+Cymbal,100
+Deer,100
+Desk,100
+Dessert,100
+Dinning Table,6
+Dog,100
+Dolphin,100
+Donkey,100
+Donut,100
+Drum,100
+Duck,100
+Dumbbell,100
+Dumpling,1
+Durian,26
+Egg,100
+Egg tart,100
+Eggplant,100
+Electric Drill,82
+Elephant,100
+Eraser,53
+Extention Cord,100
+Extractor,100
+Fan,100
+Faucet,100
+Fire Extinguisher,100
+Fire Hydrant,39
+Fire Truck,100
+Fishing Rod,96
+Flag,100
+Flower,100
+Flute,65
+Folder,100
+Fork,100
+Formula 1 ,19
+French,18
+French Fries,94
+Frisbee,2
+Game board,14
+Garlic,100
+Gas stove,100
+Giraffe,10
+Glasses,100
+Globe,93
+Gloves,100
+Goldfish,100
+Golf Ball,100
+Golf Club,100
+Goose,100
+Grape,100
+Grapefruit,67
+Green Onion,100
+Green Vegetables,83
+Green beans,100
+Guitar,100
+Gun,100
+Hair Dryer,100
+Hamburger,100
+Hamimelon,100
+Hammer,100
+Handbag/Satchel,100
+Hanger,100
+Hat,100
+Head Phone,100
+Heavy Truck,34
+Helicopter,100
+Helmet,100
+High Heels,100
+Hockey Stick,41
+Horse,100
+Hot dog,83
+Hotair ballon,35
+Hoverboard,3
+Hurdle,100
+Ice cream,100
+Induction Cooker,100
+Jellyfish,100
+Jug,1
+Kettle,100
+Key,100
+Keyboard,100
+Kite,5
+Kiwi fruit,100
+Knife,100
+Ladder,100
+Lamp,100
+Lantern,100
+Laptop,100
+Leather Shoes,100
+Lemon,100
+Lettuce,74
+Lifesaver,100
+Lighter,17
+Lion,30
+Lobster,9
+Luggage,100
+Machinery Vehicle,100
+Mango,100
+Marker,100
+Mask,100
+Meat ball,99
+Medal,35
+Megaphone,87
+Microphone,100
+Microwave,100
+Mirror,100
+Moniter/TV,100
+Monkey,49
+Mop,56
+Motorcycle,100
+Mouse,100
+Mushroon,87
+Napkin,100
+Necklace,100
+Nightstand,100
+Notepaper,100
+Nuts,100
+Okra,15
+Onion,100
+Orange/Tangerine,100
+Other Fish,100
+Other Shoes,8
+Oven,100
+Paddle,48
+Paint Brush,100
+Papaya,100
+Parking meter,58
+Parrot,22
+Pasta,10
+Peach,100
+Pear,100
+Pen/Pencil,100
+Pencil Case,24
+Penguin,100
+Pepper,100
+Person,105
+Piano,100
+Pickup Truck,100
+Picture/Frame,100
+Pie,100
+Pig,100
+Pigeon,100
+Pillow,100
+Pineapple,100
+Pizza,100
+Plate,100
+Pliers,100
+Plum,100
+Poker Card,100
+Pomegranate,80
+Pot,100
+Potato,100
+Potted Plant,100
+Power outlet,100
+Printer,100
+Projector,100
+Pumpkin,100
+Rabbit,7
+Radiator,100
+Radish,66
+Recorder,100
+Red Cabbage,28
+Refrigerator,100
+Remote,100
+Rice,72
+Rice Cooker,84
+Rickshaw,39
+Ring,100
+Router/modem,100
+SUV,100
+Sailboat,100
+Sandals,100
+Sandwich,69
+Sausage,100
+Saxophone,100
+Scale,100
+Scallop,7
+Scissors,100
+Scooter,5
+Screwdriver,100
+Seal,85
+Sheep,100
+Ship,95
+Shovel,100
+Shrimp,88
+Side Table,100
+Sink,100
+Skateboard,100
+Skating and Skiing shoes,100
+Skiboard,100
+Slide,100
+Slippers,100
+Sneakers,100
+Snowboard,80
+Soap,100
+Soccer,100
+Speaker,100
+Spoon,100
+Sports Car,100
+Spring Rolls,88
+Stapler,100
+Steak,11
+Stool,100
+Stop Sign,72
+Storage box,100
+Strawberry,100
+Street Lights,100
+Stroller,100
+Stuffed Toy,100
+Surfboard,89
+Surveillance Camera,100
+Sushi,100
+Swan,100
+Swing,100
+Tablet,100
+Tape,100
+Tape Measur/ Ruler,100
+Target,10
+Tea pot,100
+Telephone,100
+Tennis,3
+Tent,50
+Tie,100
+Tissue,100
+Toaster,100
+Toilet,100
+Toilet Paper,100
+Toiletry,100
+Tomato,100
+Tong,100
+Toothbrush,100
+Towel,100
+Traffic Light,100
+Traffic Sign,100
+Traffic cone,100
+Train,100
+Trash bin Can,100
+Treadmill,100
+Tricycle,32
+Tripod,100
+Trolley,100
+Trombone,100
+Trophy,100
+Truck,100
+Trumpet,100
+Tuba,59
+Umbrella,100
+Urinal,2
+Van,100
+Vase,100
+Violin,100
+Volleyball,76
+Wallet/Purse,77
+Washing Machine/Drying Machine,100
+Watch,100
+Watermelon,100
+Wheelchair,25
+Wild Bird,100
+Wine Glass,100
+Yak,100
+Zebra,52
+earphone,100

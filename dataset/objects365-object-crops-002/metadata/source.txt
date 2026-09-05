@@ -1,0 +1,3 @@
+Objects365 official validation patches 0-9 and zhiyuan_objv2_val.json
+https://www.objects365.org/
+License: CC BY 4.0 per source documentation.
