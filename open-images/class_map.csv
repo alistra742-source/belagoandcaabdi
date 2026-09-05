@@ -1,0 +1,603 @@
+class_name,folder_name
+Accordion,accordion
+Adhesive tape,adhesive_tape
+Aircraft,aircraft
+Alarm clock,alarm_clock
+Alpaca,alpaca
+Ambulance,ambulance
+Animal,animal
+Ant,ant
+Antelope,antelope
+Apple,apple
+Armadillo,armadillo
+Artichoke,artichoke
+Auto part,auto_part
+Axe,axe
+Backpack,backpack
+Bagel,bagel
+Baked goods,baked_goods
+Balance beam,balance_beam
+Ball (Object),ball_object
+Balloon,balloon
+Banana,banana
+Band-aid,band_aid
+Banjo,banjo
+Barge,barge
+Barrel,barrel
+Baseball bat,baseball_bat
+Baseball glove,baseball_glove
+Bat (Animal),bat_animal
+Bathroom accessory,bathroom_accessory
+Bathroom cabinet,bathroom_cabinet
+Bathtub,bathtub
+Beaker,beaker
+Bear,bear
+Beard,beard
+Bed,bed
+Bee,bee
+Beehive,beehive
+Beer,beer
+Beetle,beetle
+Bell pepper,bell_pepper
+Belt,belt
+Bench,bench
+Bicycle,bicycle
+Bicycle helmet,bicycle_helmet
+Bicycle wheel,bicycle_wheel
+Bidet,bidet
+Billboard,billboard
+Billiard table,billiard_table
+Binoculars,binoculars
+Bird,bird
+Blender,blender
+Blue jay,blue_jay
+Boat,boat
+Bomb,bomb
+Book,book
+Bookcase,bookcase
+Boot,boot
+Bottle,bottle
+Bottle opener,bottle_opener
+Bow and arrow,bow_and_arrow
+Bowl,bowl
+Bowling equipment,bowling_equipment
+Box,box
+Boy,boy
+Brassiere,brassiere
+Bread,bread
+Briefcase,briefcase
+Broccoli,broccoli
+Bronze sculpture,bronze_sculpture
+Brown bear,brown_bear
+Building,building
+Bull,bull
+Burrito,burrito
+Bus,bus
+Bust,bust
+Butterfly,butterfly
+Cabbage,cabbage
+Cabinetry,cabinetry
+Cake,cake
+Cake stand,cake_stand
+Calculator,calculator
+Camel,camel
+Camera,camera
+Can opener,can_opener
+Canary,canary
+Candle,candle
+Candy,candy
+Cannon,cannon
+Canoe,canoe
+Cantaloupe,cantaloupe
+Car,car
+Carnivore,carnivore
+Carrot,carrot
+Cart,cart
+Cassette deck,cassette_deck
+Castle,castle
+Cat,cat
+Cat furniture,cat_furniture
+Caterpillar,caterpillar
+Cattle,cattle
+Ceiling fan,ceiling_fan
+Cello,cello
+Centipede,centipede
+Chainsaw,chainsaw
+Chair,chair
+Cheese,cheese
+Cheetah,cheetah
+Chest of drawers,chest_of_drawers
+Chicken,chicken
+Chime,chime
+Chisel,chisel
+Chopsticks,chopsticks
+Christmas tree,christmas_tree
+Clock,clock
+Closet,closet
+Clothing,clothing
+Coat,coat
+Cocktail,cocktail
+Cocktail shaker,cocktail_shaker
+Coconut,coconut
+Coffee (drink),coffee_drink
+Coffee cup,coffee_cup
+Coffee table,coffee_table
+Coffeemaker,coffeemaker
+Coin,coin
+Common fig,common_fig
+Common sunflower,common_sunflower
+Computer keyboard,computer_keyboard
+Computer monitor,computer_monitor
+Computer mouse,computer_mouse
+Container,container
+Convenience store,convenience_store
+Cookie,cookie
+Cooking spray,cooking_spray
+Corded phone,corded_phone
+Cosmetics,cosmetics
+Couch,couch
+Countertop,countertop
+Cowboy hat,cowboy_hat
+Crab,crab
+Cream,cream
+Cricket ball,cricket_ball
+Crocodile,crocodile
+Croissant,croissant
+Crown,crown
+Crutch,crutch
+Cucumber,cucumber
+Cupboard,cupboard
+Curtain,curtain
+Cutting board,cutting_board
+Dagger,dagger
+Dairy Product,dairy_product
+Deer,deer
+Desk,desk
+Dessert,dessert
+Diaper,diaper
+Dice,dice
+Digital clock,digital_clock
+Dinosaur,dinosaur
+Dishwasher,dishwasher
+DisplayName,displayname
+Dog,dog
+Dog bed,dog_bed
+Doll,doll
+Dolphin,dolphin
+Door,door
+Door handle,door_handle
+Doughnut,doughnut
+Dragonfly,dragonfly
+Drawer,drawer
+Dress,dress
+Drill (Tool),drill_tool
+Drink,drink
+Drinking straw,drinking_straw
+Drum,drum
+Duck,duck
+Dumbbell,dumbbell
+Eagle,eagle
+Earring,earring
+Egg,egg
+Elephant,elephant
+Envelope,envelope
+Eraser,eraser
+Face powder,face_powder
+Facial tissue holder,facial_tissue_holder
+Falcon,falcon
+Fashion accessory,fashion_accessory
+Fast food,fast_food
+Fax,fax
+Fedora,fedora
+Filing cabinet,filing_cabinet
+Fire hydrant,fire_hydrant
+Fireplace,fireplace
+Fish,fish
+Fixed-wing aircraft,fixed_wing_aircraft
+Flag,flag
+Flashlight,flashlight
+Flower,flower
+Flowerpot,flowerpot
+Flute,flute
+Flying disc,flying_disc
+Food,food
+Food processor,food_processor
+Football,football
+Football helmet,football_helmet
+Footwear,footwear
+Fork,fork
+Fountain,fountain
+Fox,fox
+French fries,french_fries
+French horn,french_horn
+Frog,frog
+Fruit,fruit
+Frying pan,frying_pan
+Furniture,furniture
+Garden Asparagus,garden_asparagus
+Gas stove,gas_stove
+Giraffe,giraffe
+Girl,girl
+Glasses,glasses
+Glove,glove
+Goat,goat
+Goggles,goggles
+Goldfish,goldfish
+Golf ball,golf_ball
+Golf cart,golf_cart
+Gondola,gondola
+Goose,goose
+Grape,grape
+Grapefruit,grapefruit
+Grinder,grinder
+Guacamole,guacamole
+Guitar,guitar
+Hair dryer,hair_dryer
+Hair spray,hair_spray
+Hamburger,hamburger
+Hammer,hammer
+Hamster,hamster
+Hand dryer,hand_dryer
+Handbag,handbag
+Handgun,handgun
+Harbor seal,harbor_seal
+Harmonica,harmonica
+Harp,harp
+Harpsichord,harpsichord
+Hat,hat
+Headphones,headphones
+Heater,heater
+Hedgehog,hedgehog
+Helicopter,helicopter
+Helmet,helmet
+High heels,high_heels
+Hiking equipment,hiking_equipment
+Hippopotamus,hippopotamus
+Home appliance,home_appliance
+Honeycomb,honeycomb
+Horizontal bar,horizontal_bar
+Horse,horse
+Hot dog,hot_dog
+House,house
+Houseplant,houseplant
+Human arm,human_arm
+Human body,human_body
+Human ear,human_ear
+Human eye,human_eye
+Human face,human_face
+Human foot,human_foot
+Human hair,human_hair
+Human hand,human_hand
+Human head,human_head
+Human leg,human_leg
+Human mouth,human_mouth
+Human nose,human_nose
+Humidifier,humidifier
+Ice cream,ice_cream
+Indoor rower,indoor_rower
+Infant bed,infant_bed
+Insect,insect
+Invertebrate,invertebrate
+Ipod,ipod
+Isopod,isopod
+Jacket,jacket
+Jacuzzi,jacuzzi
+Jaguar (Animal),jaguar_animal
+Jeans,jeans
+Jellyfish,jellyfish
+Jet ski,jet_ski
+Jug,jug
+Juice,juice
+Kangaroo,kangaroo
+Kettle,kettle
+Kitchen & dining room table,kitchen_dining_room_table
+Kitchen appliance,kitchen_appliance
+Kitchen knife,kitchen_knife
+Kitchen utensil,kitchen_utensil
+Kitchenware,kitchenware
+Kite,kite
+Knife,knife
+Koala,koala
+Ladder,ladder
+Ladle,ladle
+Ladybug,ladybug
+Lamp,lamp
+Land vehicle,land_vehicle
+Lantern,lantern
+Laptop,laptop
+Lavender (Plant),lavender_plant
+Lemon (plant),lemon_plant
+Leopard,leopard
+Light bulb,light_bulb
+Light switch,light_switch
+Lighthouse,lighthouse
+Lily,lily
+Limousine,limousine
+Lion,lion
+Lipstick,lipstick
+Lizard,lizard
+Lobster,lobster
+Loveseat,loveseat
+Luggage and bags,luggage_and_bags
+Lynx,lynx
+Magpie,magpie
+Mammal,mammal
+Man,man
+Mango,mango
+Maple,maple
+Maraca,maraca
+Marine invertebrates,marine_invertebrates
+Marine mammal,marine_mammal
+Measuring cup,measuring_cup
+Mechanical fan,mechanical_fan
+Medical equipment,medical_equipment
+Microphone,microphone
+Microwave oven,microwave_oven
+Milk,milk
+Miniskirt,miniskirt
+Mirror,mirror
+Missile,missile
+Mixer,mixer
+Mixing bowl,mixing_bowl
+Mobile phone,mobile_phone
+Monkey,monkey
+Moths and butterflies,moths_and_butterflies
+Motorcycle,motorcycle
+Mouse,mouse
+Muffin,muffin
+Mug,mug
+Mule,mule
+Mushroom,mushroom
+Musical instrument,musical_instrument
+Musical keyboard,musical_keyboard
+Nail (Construction),nail_construction
+Necklace,necklace
+Nightstand,nightstand
+Oboe,oboe
+Office building,office_building
+Office supplies,office_supplies
+Orange (fruit),orange_fruit
+Organ (Musical Instrument),organ_musical_instrument
+Ostrich,ostrich
+Otter,otter
+Oven,oven
+Owl,owl
+Oyster,oyster
+Paddle,paddle
+Palm tree,palm_tree
+Pancake,pancake
+Panda,panda
+Paper cutter,paper_cutter
+Paper towel,paper_towel
+Parachute,parachute
+Parking meter,parking_meter
+Parrot,parrot
+Pasta,pasta
+Pastry,pastry
+Peach,peach
+Pear,pear
+Pen,pen
+Pencil case,pencil_case
+Pencil sharpener,pencil_sharpener
+Penguin,penguin
+Perfume,perfume
+Person,person
+Personal care,personal_care
+Personal flotation device,personal_flotation_device
+Piano,piano
+Picnic basket,picnic_basket
+Picture frame,picture_frame
+Pig,pig
+Pillow,pillow
+Pineapple,pineapple
+Pitcher (Container),pitcher_container
+Pizza,pizza
+Pizza cutter,pizza_cutter
+Plant,plant
+Plastic bag,plastic_bag
+Plate,plate
+Platter,platter
+Plumbing fixture,plumbing_fixture
+Polar bear,polar_bear
+Pomegranate,pomegranate
+Popcorn,popcorn
+Porch,porch
+Porcupine,porcupine
+Poster,poster
+Potato,potato
+Power plugs and sockets,power_plugs_and_sockets
+Pressure cooker,pressure_cooker
+Pretzel,pretzel
+Printer,printer
+Pumpkin,pumpkin
+Punching bag,punching_bag
+Rabbit,rabbit
+Raccoon,raccoon
+Racket,racket
+Radish,radish
+Ratchet (Device),ratchet_device
+Raven,raven
+Rays and skates,rays_and_skates
+Red panda,red_panda
+Refrigerator,refrigerator
+Remote control,remote_control
+Reptile,reptile
+Rhinoceros,rhinoceros
+Rifle,rifle
+Ring binder,ring_binder
+Rocket,rocket
+Roller skates,roller_skates
+Rose,rose
+Rugby ball,rugby_ball
+Ruler,ruler
+Salad,salad
+Salt and pepper shakers,salt_and_pepper_shakers
+Sandal,sandal
+Sandwich,sandwich
+Saucer,saucer
+Saxophone,saxophone
+Scale,scale
+Scarf,scarf
+Scissors,scissors
+Scoreboard,scoreboard
+Scorpion,scorpion
+Screwdriver,screwdriver
+Sculpture,sculpture
+Sea lion,sea_lion
+Sea turtle,sea_turtle
+Seafood,seafood
+Seahorse,seahorse
+Seat belt,seat_belt
+Segway,segway
+Serving tray,serving_tray
+Sewing machine,sewing_machine
+Shark,shark
+Sheep,sheep
+Shelf,shelf
+Shellfish,shellfish
+Shirt,shirt
+Shorts,shorts
+Shotgun,shotgun
+Shower,shower
+Shrimp,shrimp
+Sink,sink
+Skateboard,skateboard
+Ski,ski
+Skirt,skirt
+Skull,skull
+Skunk,skunk
+Skyscraper,skyscraper
+Slow cooker,slow_cooker
+Snack,snack
+Snail,snail
+Snake,snake
+Snowboard,snowboard
+Snowman,snowman
+Snowmobile,snowmobile
+Snowplow,snowplow
+Soap dispenser,soap_dispenser
+Sock,sock
+Sofa bed,sofa_bed
+Sombrero,sombrero
+Sparrow,sparrow
+Spatula,spatula
+Spice rack,spice_rack
+Spider,spider
+Spoon,spoon
+Sports equipment,sports_equipment
+Sports uniform,sports_uniform
+Squash (Plant),squash_plant
+Squid,squid
+Squirrel,squirrel
+Stairs,stairs
+Stapler,stapler
+Starfish,starfish
+Stationary bicycle,stationary_bicycle
+Stethoscope,stethoscope
+Stool,stool
+Stop sign,stop_sign
+Strawberry,strawberry
+Street light,street_light
+Stretcher,stretcher
+Studio couch,studio_couch
+Submarine,submarine
+Submarine sandwich,submarine_sandwich
+Suit,suit
+Suitcase,suitcase
+Sun hat,sun_hat
+Sunglasses,sunglasses
+Surfboard,surfboard
+Sushi,sushi
+Swan,swan
+Swim cap,swim_cap
+Swimming pool,swimming_pool
+Swimwear,swimwear
+Sword,sword
+Syringe,syringe
+Table,table
+Table tennis racket,table_tennis_racket
+Tablet computer,tablet_computer
+Tableware,tableware
+Taco,taco
+Tank,tank
+Tap,tap
+Tart,tart
+Taxi,taxi
+Tea,tea
+Teapot,teapot
+Teddy bear,teddy_bear
+Telephone,telephone
+Television,television
+Tennis ball,tennis_ball
+Tennis racket,tennis_racket
+Tent,tent
+Tiara,tiara
+Tick,tick
+Tie,tie
+Tiger,tiger
+Tin can,tin_can
+Tire,tire
+Toaster,toaster
+Toilet,toilet
+Toilet paper,toilet_paper
+Tomato,tomato
+Tool,tool
+Toothbrush,toothbrush
+Torch,torch
+Tortoise,tortoise
+Towel,towel
+Tower,tower
+Toy,toy
+Traffic light,traffic_light
+Traffic sign,traffic_sign
+Train,train
+Training bench,training_bench
+Treadmill,treadmill
+Tree,tree
+Tree house,tree_house
+Tripod,tripod
+Trombone,trombone
+Trousers,trousers
+Truck,truck
+Trumpet,trumpet
+Turkey,turkey
+Turtle,turtle
+Umbrella,umbrella
+Unicycle,unicycle
+Van,van
+Vase,vase
+Vegetable,vegetable
+Vehicle,vehicle
+Vehicle registration plate,vehicle_registration_plate
+Violin,violin
+Volleyball (Ball),volleyball_ball
+Waffle,waffle
+Waffle iron,waffle_iron
+Wall clock,wall_clock
+Wardrobe,wardrobe
+Washing machine,washing_machine
+Waste container,waste_container
+Watch,watch
+Watercraft,watercraft
+Watermelon,watermelon
+Weapon,weapon
+Whale,whale
+Wheel,wheel
+Wheelchair,wheelchair
+Whisk,whisk
+Whiteboard,whiteboard
+Willow,willow
+Window,window
+Window blind,window_blind
+Wine,wine
+Wine glass,wine_glass
+Wine rack,wine_rack
+Winter melon,winter_melon
+Wok,wok
+Woman,woman
+Wood-burning stove,wood_burning_stove
+Woodpecker,woodpecker
+Worm,worm
+Wrench,wrench
+Zebra,zebra
+Zucchini,zucchini
